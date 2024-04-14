@@ -29,11 +29,13 @@ git clone https://github.com/yoo/weatherapp
 - Obtain an API key.
 - Create a file named `.env.local` in the root directory of the project.
 - Add your API key to the `.env.local` file:
+
   ```
   API_KEY=your_api_key_here
   ```
 
 5. **Run the project:**
+
    ```
    npm run dev
    ```
