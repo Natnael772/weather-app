@@ -7,10 +7,10 @@ This is a weather app built with Next.js, TypeScript, Tailwind CSS, React Query,
 Follow these steps to set up the project locally:
 
 1. **Clone the project:**
-   git clone https://github.com/yoo/weatherapp
 
-python
-Copy code
+```
+git clone https://github.com/yoo/weatherapp
+```
 
 2. **Install nvm (Node Version Manager):**
 
@@ -18,10 +18,10 @@ Copy code
 - If you don't have nvm installed, you can follow the instructions at [nvm GitHub repository](https://github.com/nvm-sh/nvm) to install it.
 
 3. **Install project dependencies:**
-   npm install
 
-markdown
-Copy code
+```
+ npm install
+```
 
 4. **Obtain API key from OpenWeatherMap:**
 
@@ -34,13 +34,16 @@ Copy code
   ```
 
 5. **Run the project:**
+   ```
    npm run dev
+   ```
 
-csharp
-Copy code
+```
+
 
 The project should now be running locally. You can access it at `http://localhost:3000`.
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+```
