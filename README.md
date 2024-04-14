@@ -38,12 +38,4 @@ git clone https://github.com/yoo/weatherapp
    npm run dev
    ```
 
-```
-
-
 The project should now be running locally. You can access it at `http://localhost:3000`.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
